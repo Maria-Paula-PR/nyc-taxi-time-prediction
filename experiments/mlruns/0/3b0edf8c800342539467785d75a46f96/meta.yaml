@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/mpper/OneDrive/Escritorio/ITESO/Semestre%205/Proyecto%20de%20Ciencia%20De%20Datos/dagshub/nyc-taxi-time-prediction/experiments/mlruns/0/3b0edf8c800342539467785d75a46f96/artifacts
+end_time: 1726631194569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b0edf8c800342539467785d75a46f96
+run_name: colorful-gull-582
+run_uuid: 3b0edf8c800342539467785d75a46f96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726631162850
+status: 3
+tags: []
+user_id: mpper

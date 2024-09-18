@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/mpper/OneDrive/Escritorio/ITESO/Semestre%205/Proyecto%20de%20Ciencia%20De%20Datos/dagshub/nyc-taxi-time-prediction/experiments/mlruns/0/89c1fb7c66f042cdb3677c2287309c97/artifacts
+end_time: 1726631085639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89c1fb7c66f042cdb3677c2287309c97
+run_name: indecisive-chimp-273
+run_uuid: 89c1fb7c66f042cdb3677c2287309c97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726631070098
+status: 3
+tags: []
+user_id: mpper
