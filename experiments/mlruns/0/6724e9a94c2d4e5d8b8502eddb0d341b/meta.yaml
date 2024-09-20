@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/mpper/OneDrive/Escritorio/ITESO/Semestre%205/Proyecto%20de%20Ciencia%20De%20Datos/dagshub/nyc-taxi-time-prediction/experiments/mlruns/0/6724e9a94c2d4e5d8b8502eddb0d341b/artifacts
+end_time: 1726630485832
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6724e9a94c2d4e5d8b8502eddb0d341b
+run_name: Xgboost Hyper-parameter Optimization
+run_uuid: 6724e9a94c2d4e5d8b8502eddb0d341b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726630485816
+status: 4
+tags: []
+user_id: mpper
