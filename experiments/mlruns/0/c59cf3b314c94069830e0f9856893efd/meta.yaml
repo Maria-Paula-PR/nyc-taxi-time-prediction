@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/mpper/OneDrive/Escritorio/ITESO/Semestre%205/Proyecto%20de%20Ciencia%20De%20Datos/dagshub/nyc-taxi-time-prediction/experiments/mlruns/0/c59cf3b314c94069830e0f9856893efd/artifacts
+end_time: 1726631113282
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c59cf3b314c94069830e0f9856893efd
+run_name: amazing-robin-490
+run_uuid: c59cf3b314c94069830e0f9856893efd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726631085661
+status: 3
+tags: []
+user_id: mpper

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/mpper/OneDrive/Escritorio/ITESO/Semestre%205/Proyecto%20de%20Ciencia%20De%20Datos/dagshub/nyc-taxi-time-prediction/experiments/mlruns/0/da2555e008274045936e4ba0692883a7/artifacts
+end_time: 1726631256540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da2555e008274045936e4ba0692883a7
+run_name: gregarious-croc-119
+run_uuid: da2555e008274045936e4ba0692883a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726631245529
+status: 3
+tags: []
+user_id: mpper
