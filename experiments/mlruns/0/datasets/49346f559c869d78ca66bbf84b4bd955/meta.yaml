@@ -1,9 +1,0 @@
-digest: 29e349b2
-name: validation
-profile: '{"features_shape": [51497, 5093], "features_size": 262274221, "features_nbytes":
-  1049096884}'
-schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
-  {\"dtype\": \"float32\", \"shape\": [-1, 5093]}}]", "targets": null}}'
-source: '{"tags": {"mlflow.user": "mpper", "mlflow.source.name": "c:\\Users\\mpper\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ipykernel_launcher.py",
-  "mlflow.source.type": "LOCAL"}}'
-source_type: code
